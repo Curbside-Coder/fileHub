@@ -50,7 +50,13 @@
 5. Access the application via your web browser at `http://localhost/filehub/` or your configured server address.
 
 #### **Contributing:**
+
+
+
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Ensure your code adheres to the project's standards and includes relevant documentation.
 
 #### **License:**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![image](https://github.com/user-attachments/assets/f2835802-9edb-4097-8951-3407e2896820)
+
